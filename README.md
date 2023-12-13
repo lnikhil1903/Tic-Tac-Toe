@@ -16,8 +16,20 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 # Output :-
-![Screenshot_1701005767](https://github.com/lnikhil1903/Tic-Tac-Toe/assets/102731690/a0e72934-c75a-420f-a06d-26f551edbe33)
-![Screenshot_1701005790](https://github.com/lnikhil1903/Tic-Tac-Toe/assets/102731690/57340b7a-971d-45b3-8c2d-1252fbc8d609)
-![Screenshot_1701005799](https://github.com/lnikhil1903/Tic-Tac-Toe/assets/102731690/4cf8fda6-c548-4eb5-86c8-edce3a017795)
-![Screenshot_1701005863](https://github.com/lnikhil1903/Tic-Tac-Toe/assets/102731690/be571f3e-d4f9-44a8-ada9-595f42fd255b)
+<p align="center">
+  <img src="https://github.com/lnikhil1903/Tic-Tac-Toe/assets/102731690/a0e72934-c75a-420f-a06d-26f551edbe33" width="300" height="600" alt="Screenshot_1701005767">
+</p>
+
+<p align="center">
+  <img src="https://github.com/lnikhil1903/Tic-Tac-Toe/assets/102731690/57340b7a-971d-45b3-8c2d-1252fbc8d609" width="300" height="600" alt="Screenshot_1701005790">
+</p>
+
+<p align="center">
+  <img src="https://github.com/lnikhil1903/Tic-Tac-Toe/assets/102731690/4cf8fda6-c548-4eb5-86c8-edce3a017795" width="300" height="600" alt="Screenshot_1701005799">
+</p>
+
+<p align="center">
+  <img src="https://github.com/lnikhil1903/Tic-Tac-Toe/assets/102731690/be571f3e-d4f9-44a8-ada9-595f42fd255b" width="300" height="600" alt="Screenshot_1701005863">
+</p>
+
 
